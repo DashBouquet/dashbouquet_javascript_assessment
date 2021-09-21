@@ -40,6 +40,8 @@ const MyAwesomeFunction = () => {
 }
 ```
 
-* After that just share your sandbox to me
+* After that just share your sandbox to my email `kaa@dashbouquet.com`
 
 <img src="assets/how_to_share.jpg" alt="How to share" width="422"/>
+
+And good luck :wink: !
