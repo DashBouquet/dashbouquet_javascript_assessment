@@ -17,3 +17,4 @@ This is a repo for pre-interview challenges for junior javascript position. Plea
 * [Implementing Array.prototype.groupBy method](group_by_method.md)
 * [Dashatize it](dashatize_it.md)
 * [Lychrel number](lychrel_number.md)
+* [HTML string from array data](html_string_from_array_data.md)
