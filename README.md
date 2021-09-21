@@ -18,3 +18,28 @@ This is a repo for pre-interview challenges for junior javascript position. Plea
 * [Dashatize it](dashatize_it.md)
 * [Lychrel number](lychrel_number.md)
 * [HTML string from array data](html_string_from_array_data.md)
+
+## How can You send a solution for challenges?
+
+Just use [codesandbox.io](https://codesandbox.io/)
+
+* Sign In/Sign Up in codesandbox.io
+* Create sandbox with `JS` environment
+
+<img src="assets/how_to_create_sandbox.jpg" alt="How to create sandbox" width="350"/>
+
+<img src="assets/env_example.jpg" alt="Environment example" width="1560"/>
+
+* Write Your solutions for challenges in `index.js` file indicating the name of challenge as a comment
+
+```javascript
+/*Lazily executing a function*/
+
+const MyAwesomeFunction = () => {
+  //For my great solution
+}
+```
+
+* After that just share your sandbox to me
+
+<img src="assets/how_to_share.jpg" alt="How to share" width="422"/>
