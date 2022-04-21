@@ -9,7 +9,7 @@
 
 ## Description
 
-This is a repo for pre-interview challenges for junior javascript position. Please use javascript for a solution language.
+This is a repo for JS challenges. Please use javascript for a solution language.
 
 ## Challenges
 
